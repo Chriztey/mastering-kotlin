@@ -1,8 +1,0 @@
-Github
-
-Google Cloud Testing
-Google Cloud Tools Core
-
-Subversion
-Mercurial
-TestNG-J
