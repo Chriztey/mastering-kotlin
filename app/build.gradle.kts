@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.chris.mastering_kotlin"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.chris.mastering_kotlin"
